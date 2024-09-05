@@ -6,5 +6,7 @@ public class Browser {
 		System.out.println("s");
 		
 		System.out.println("day");
+		
+		System.out.println("top");
 	}
 }
